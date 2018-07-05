@@ -6,6 +6,7 @@ Sample sheet: https://docs.google.com/spreadsheets/d/1R-hzfTtXW3-mox1s4Wmloum__X
 사용법
 1. 엑셀 파일을 `.tsv`로 저장 (`File > Download as > .tsv`)
 1. `$ node tsv2json.js filename`
+
     ```bash
     $ node tsv2json.js sample-sheet-for-tsv2json.tsv
     created: localized-zh.json
